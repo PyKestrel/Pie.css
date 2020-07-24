@@ -16,6 +16,17 @@ The Utility Portion Is The Only Portion Included In The Pie.min.css, The Rest Su
 <link rel="stylesheet" href="https://cdn.pyrepo.com/pie.min.css">
 ```
 
+**Features In Next Update**
+- Top, Right, Bottom, Left
+- Positions
+- More Font & BG Colors!
+- More Fonts!
+- Transformations (Scale, Rotates, Skew)
+- Progress Bar
+- Tips
+- Pop Up Notifications
+
+
 **Documentation**:
 I Will Format This Section Property and Syntax Respectively.
 
@@ -293,3 +304,4 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - transition: linear; `tr-linear`
 - transition: step-end; `tr-stepEnd`
 - transition: step-start; `tr-stepStart`
+
