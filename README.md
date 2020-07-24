@@ -201,3 +201,95 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - margin-left: 6%; `ml-6`
 - margin-left: 8%; `ml-8`
 - margin-left: 10%; `ml-10`
+
+**Padding**
+
+**Padding Around**
+- padding: 1%; `p-1`
+- padding: 2%; `p-2`
+- padding: 4%; `p-4`
+- padding: 6%; `p-6`
+- padding: 8%; `p-8`
+- padding: 10%; `p-10`
+
+**Padding Top**
+- padding-top: 1%; `pt-1`
+- padding-top: 2%; `pt-2`
+- padding-top: 4%; `pt-4`
+- padding-top: 6%; `pt-6`
+- padding-top: 8%; `pt-8`
+- padding-top: 10%; `pt-10`
+
+**Padding Right**
+- padding-right: 1%; `pr-1`
+- padding-right: 2%; `pr-2`
+- padding-right: 4%; `pr-4`
+- padding-right: 6%; `pr-6`
+- padding-right: 8%; `pr-8`
+- padding-right: 10%; `pr-10`
+
+**Padding Bottom**:
+- padding-bottom: 1%; `pb-1`
+- padding-bottom: 2%; `pb-2`
+- padding-bottom: 4%; `pb-4`
+- padding-bottom: 6%; `pb-6`
+- padding-bottom: 8%; `pb-8`
+- padding-bottom: 10%; `pb-10`
+
+**Padding Left**
+- padding-left: 1%; `pl-1`
+- padding-left: 2%; `pl-2`
+- padding-left: 4%; `pl-4`
+- padding-left: 6%; `pl-6`
+- padding-left: 8%; `pl-8`
+- padding-left: 10%; `pl-10`
+
+**Display**
+- display: block; `block`
+- display: inline; `inline`
+- display: inline-block; `inline-block`
+
+**Display Flex**
+- display: flex; `flex`
+
+**Flex Direction** 
+- flex-direction: row; `fd-row`
+- flex-direction: column; `fd-column`
+
+**Flex Centering**
+- align-items: center; `fh-center`
+- justify-content: center; `fv-center`
+ 
+ **Display Grid**
+ - display: grid; `grid`
+ 
+ **Grid Templates**
+ - grid-template-columns: auto; `gcol-1x1`
+ - grid-template-columns: auto auto; `gcol-1x2`
+ - grid-template-columns: auto auto auto; `gcol-1x3`
+ - grid-template-rows: auto; `grow-1x1`
+ 
+ **Grid Gap**
+ - grid-gap: 1px; `gap-1`
+ - grid-gap: 2px; `gap-2`
+ - grid-gap: 4px; `gap-4`
+ - grid-gap: 6px; `gap-6`
+ - grid-gap: 8px; `gap-8`
+ - grid-gap: 10px; `gap-10`
+ - grid-gap: 20px; `gap-20`
+ 
+ **Opacity**
+ - opacity: 0; `o-0`
+ - opacity: 0.25; `o-25`
+ - opacity: 0.5; `o-50`
+ - opacity: 0.75; `o-75`
+ - opacity: 1; `o-1`
+
+**Transition Timings**
+- transition: ease; `tr-ease`
+- transition: ease-in; `tr-easeIn`
+- transition: ease-in-out; `tr-easeInOut`
+- transition: ease-out; `tr-easeOut`
+- transition: linear; `tr-linear`
+- transition: step-end; `tr-stepEnd`
+- transition: step-start; `tr-stepStart`
