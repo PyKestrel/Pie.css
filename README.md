@@ -6,18 +6,18 @@ Pie CSS Tries To Simplify Styling Syntax To Make Styling Your Page Much **Faster
 
 The Utility Portion Is The Only Portion Included In The Pie.min.css, The Rest Such as The Premade Objects Like Alerts, Buttons, Cards etc. Are Available In The Full Version Of The Library.
 
-**Example Syntax**:
+## **Example Syntax**:
 
 ```
 <h1 class="font montserrat light fs-36 white"> Pie.css </h1>
 ```
 
-**CDN:**
+## **CDN:**
 ```
 <link rel="stylesheet" href="https://cdn.pyrepo.com/pie.min.css">
 ```
 
-**Features In Next Update**
+## **Features In Next Update**
 - [ ] Top, Right, Bottom, Left
 - [ ] Positions
 - [x] More Font & BG Colors!
@@ -28,12 +28,12 @@ The Utility Portion Is The Only Portion Included In The Pie.min.css, The Rest Su
 - [ ] Pop Up Notifications
 
 
-**Documentation**:
+##**Documentation**:
 I Will Format This Section Property and Syntax Respectively.
 
 When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen In The Example Syntax Above Otherwise It Wont Work.
 
-**Font Families** Currently Available:
+## **Font Families** Currently Available:
 - Montserrat `montserrat`
 - Open Sans `opensans`
 - QuickSand `quicksand`
@@ -42,17 +42,17 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - Times New Roman `times`
 - Arial `arial`
 
-**Font Size**:
+## **Font Size**:
 - Size Options Are Similar To That Of Microsoft Word  `fs-8`, `fs-9`, `fs-10`, etc.
 
-**Font Weight**:
+## **Font Weight**:
 - 100 `thin`
 - 300 `light`
 - 400 `regular`
 - 500 `medium`
 - 700 `bold`
 
-**Text Decoration**:
+## **Text Decoration**:
 - text-decoration: dashed; `dashed`
 - text-decoration: dotted; `dotted`
 - text-decoration: double; `double`
@@ -63,14 +63,14 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - text-decoration: wavy; `wavy`
 - text-decoration: none; `td-none`
 
-**Text Align**:
+## **Text Align**:
 - text-align: center; `center`
 - text-align: left; `left`
 - text-align: right; `right`
 - text-align: start; `start`
 - text-align: end; `end`
 
-**Text Colors**:
+## **Text Colors**:
 - color: white; `white`
 - color: black; `black`
 - color: grey; `grey`
@@ -81,42 +81,42 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - color: yellow; `yellow`
 - color: orange; `orange`
 
-**Border**:
+## **Border**:
 - border: 1px; `b-1`
 - border: 2px; `b-2`
 - border: 3px; `b-3`
 - border: 4px; `b-4`
 - border: 5px; `b-5`
 
-**Border Top**:
+## **Border Top**:
 - border-top: 1px; `bt-1`
 - border-top: 2px; `bt-2`
 - border-top: 3px; `bt-3`
 - border-top: 4px; `bt-4`
 - border-top: 5px; `bt-5`
 
-**Border Right**:
+## **Border Right**:
 - border-right: 1px; `br-1`
 - border-right: 2px; `br-2`
 - border-right: 3px; `br-3`
 - border-right: 4px; `br-4`
 - border-right: 5px; `br-5`
 
-**Border Bottom**:
+## **Border Bottom**:
 - border-bottom: 1px; `bb-1`
 - border-bottom: 2px; `bb-2`
 - border-bottom: 3px; `bb-3`
 - border-bottom: 4px; `bb-4`
 - border-bottom: 5px; `bb-5`
 
-**Border Left**:
+## **Border Left**:
 - border-left: 1px; `bl-1`
 - border-left: 2px; `bl-2`
 - border-left: 3px; `bl-3`
 - border-left: 4px; `bl-4`
 - border-left: 5px; `bl-5`
 
-**Border Radius**:
+## **Border Radius**:
 - border-radius: 1px; `bra-1`
 - border-radius: 2px; `bra-2`
 - border-radius: 3px; `bra-3`
@@ -128,7 +128,7 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - border-radius: 25px; `bra-25`
 - border-radius: 30px; `bra-30`
 
-**Border Style**:
+## **Border Style**:
 - border-style: dashed; `bs-Dashed`
 - border-style: dotted; `bs-Dotted`
 - border-style: double; `bs-Double`
@@ -139,9 +139,9 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - border-style: outset; `bs-Outset`
 - border-style: solid; `bs-Solid`
 
-**Backgrounds**
+## **Backgrounds**
 
-**Background Colors**: 
+## **Background Colors**: 
 - background-color: white; `bg-white`
 - background-color: black; `bg-black`
 - background-color: rgb(36, 36, 36); `bg-darkgrey`
@@ -150,30 +150,30 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - background-color: yellow;
 - background-color: orange;
 
-**Background Attachments**:
+## **Background Attachments**:
 - background-attachment: fixed; `bg-fixed`
 - background-attachment: scroll; `bg-scroll`
 - background-attachment: local; `bg-local`
 
-**Background Repeat**:
+## **Background Repeat**:
 - background-repeat: repeat; `bg-repeat`
 - background-repeat: no-repeat; `bg-norepeat`
 - background-repeat: repeat-x; `bg-repeatx`
 - background-repeat: repeat-y; `bg-repeaty`
 
-**Background Size**:
+## **Background Size**:
 - background-size: cover; `bg-cover`
 - background-size: contain; `bg-contain`
 
-**Height**:
+## **Height**:
 - Sizes 1 - 100 `h-1`,`h-2`,`h-100` etc.
 
-**Width**:
+## **Width**:
 - Sizes 1 - 100 `w-1`,`w-2`,`w-100` etc.
 
-**Margin**
+# **Margin**
 
-**Margin Around**
+## **Margin Around**
 - margin: auto; `m-auto`
 - margin: 1%; `m-1`
 - margin: 2%; `m-2`
@@ -182,7 +182,7 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - margin: 8%; `m-8`
 - margin: 10%; `m-10`
 
-**Margin Top**
+## **Margin Top**
 - margin-top: 1%; `mt-1`
 - margin-top: 2%; `mt-2`
 - margin-top: 4%; `mt-4`
@@ -190,7 +190,7 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - margin-top: 8%; `mt-8`
 - margin-top: 10%; `mt-10`
 
-**Margin Right**
+## **Margin Right**
 - margin-right: 1%; `mr-1`
 - margin-right: 2%; `mr-2`
 - margin-right: 4%; `mr-4`
@@ -198,7 +198,7 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - margin-right: 8%; `mr-8`
 - margin-right: 10%; `mr-10`
 
-**Margin Bottom**
+## **Margin Bottom**
 - margin-bottom: 1%; `mb-1`
 - margin-bottom: 2%; `mb-2`
 - margin-bottom: 4%; `mb-4`
@@ -206,7 +206,7 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - margin-bottom: 8%; `mb-8`
 - margin-bottom: 10%; `mb-10`
 
-**Margin Left**
+## **Margin Left**
 - margin-left: 1%; `ml-1`
 - margin-left: 2%; `ml-2`
 - margin-left: 4%; `ml-4`
@@ -214,9 +214,9 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - margin-left: 8%; `ml-8`
 - margin-left: 10%; `ml-10`
 
-**Padding**
+# **Padding**
 
-**Padding Around**
+## **Padding Around**
 - padding: 1%; `p-1`
 - padding: 2%; `p-2`
 - padding: 4%; `p-4`
@@ -224,7 +224,7 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - padding: 8%; `p-8`
 - padding: 10%; `p-10`
 
-**Padding Top**
+## **Padding Top**
 - padding-top: 1%; `pt-1`
 - padding-top: 2%; `pt-2`
 - padding-top: 4%; `pt-4`
@@ -232,7 +232,7 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - padding-top: 8%; `pt-8`
 - padding-top: 10%; `pt-10`
 
-**Padding Right**
+## **Padding Right**
 - padding-right: 1%; `pr-1`
 - padding-right: 2%; `pr-2`
 - padding-right: 4%; `pr-4`
@@ -240,7 +240,7 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - padding-right: 8%; `pr-8`
 - padding-right: 10%; `pr-10`
 
-**Padding Bottom**:
+## **Padding Bottom**:
 - padding-bottom: 1%; `pb-1`
 - padding-bottom: 2%; `pb-2`
 - padding-bottom: 4%; `pb-4`
@@ -248,7 +248,7 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - padding-bottom: 8%; `pb-8`
 - padding-bottom: 10%; `pb-10`
 
-**Padding Left**
+## **Padding Left**
 - padding-left: 1%; `pl-1`
 - padding-left: 2%; `pl-2`
 - padding-left: 4%; `pl-4`
@@ -256,32 +256,32 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - padding-left: 8%; `pl-8`
 - padding-left: 10%; `pl-10`
 
-**Display**
+## **Display**
 - display: block; `block`
 - display: inline; `inline`
 - display: inline-block; `inline-block`
 
-**Display Flex**
+## **Display Flex**
 - display: flex; `flex`
 
-**Flex Direction** 
+## **Flex Direction** 
 - flex-direction: row; `fd-row`
 - flex-direction: column; `fd-column`
 
-**Flex Centering**
+## **Flex Centering**
 - align-items: center; `fh-center`
 - justify-content: center; `fv-center`
  
- **Display Grid**
+ ## **Display Grid**
  - display: grid; `grid`
  
- **Grid Templates**
+ ## **Grid Templates**
  - grid-template-columns: auto; `gcol-1x1`
  - grid-template-columns: auto auto; `gcol-1x2`
  - grid-template-columns: auto auto auto; `gcol-1x3`
  - grid-template-rows: auto; `grow-1x1`
  
- **Grid Gap**
+ ## **Grid Gap**
  - grid-gap: 1px; `gap-1`
  - grid-gap: 2px; `gap-2`
  - grid-gap: 4px; `gap-4`
@@ -290,14 +290,14 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
  - grid-gap: 10px; `gap-10`
  - grid-gap: 20px; `gap-20`
  
- **Opacity**
+ ## **Opacity**
  - opacity: 0; `o-0`
  - opacity: 0.25; `o-25`
  - opacity: 0.5; `o-50`
  - opacity: 0.75; `o-75`
  - opacity: 1; `o-1`
 
-**Transition Timings**
+## **Transition Timings**
 - transition: ease; `tr-ease`
 - transition: ease-in; `tr-easeIn`
 - transition: ease-in-out; `tr-easeInOut`
