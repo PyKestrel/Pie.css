@@ -19,8 +19,6 @@ The Utility Portion Is The Only Portion Included In The Pie.min.css, The Rest Su
 **Documentation**:
 I Will Format This Section Property and Syntax Respectively.
 
-Fonts:
-
 When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen In The Example Syntax Above Otherwise It Wont Work.
 
 **Font Families** Currently Available:
@@ -70,3 +68,136 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - color: pink; `pink`
 - color: yellow; `yellow`
 - color: orange; `orange`
+
+**Border**:
+- border: 1px; `b-1`
+- border: 2px; `b-2`
+- border: 3px; `b-3`
+- border: 4px; `b-4`
+- border: 5px; `b-5`
+
+**Border Top**:
+- border-top: 1px; `bt-1`
+- border-top: 2px; `bt-2`
+- border-top: 3px; `bt-3`
+- border-top: 4px; `bt-4`
+- border-top: 5px; `bt-5`
+
+**Border Right**:
+- border-right: 1px; `br-1`
+- border-right: 2px; `br-2`
+- border-right: 3px; `br-3`
+- border-right: 4px; `br-4`
+- border-right: 5px; `br-5`
+
+**Border Bottom**:
+- border-bottom: 1px; `bb-1`
+- border-bottom: 2px; `bb-2`
+- border-bottom: 3px; `bb-3`
+- border-bottom: 4px; `bb-4`
+- border-bottom: 5px; `bb-5`
+
+**Border Left**:
+- border-left: 1px; `bl-1`
+- border-left: 2px; `bl-2`
+- border-left: 3px; `bl-3`
+- border-left: 4px; `bl-4`
+- border-left: 5px; `bl-5`
+
+**Border Radius**:
+- border-radius: 1px; `bra-1`
+- border-radius: 2px; `bra-2`
+- border-radius: 3px; `bra-3`
+- border-radius: 4px; `bra-4`
+- border-radius: 5px; `bra-5`
+- border-radius: 10px; `bra-10`
+- border-radius: 15px; `bra-15`
+- border-radius: 20px; `bra-20`
+- border-radius: 25px; `bra-25`
+- border-radius: 30px; `bra-30`
+
+**Border Style**:
+- border-style: dashed; `bs-Dashed`
+- border-style: dotted; `bs-Dotted`
+- border-style: double; `bs-Double`
+- border-style: groove; `bs-Groove`
+- border-style: hidden; `bs-Hidden`
+- border-style: inset; `bs-Inset`
+- border-style: ridge; `bs-Ridge`
+- border-style: outset; `bs-Outset`
+- border-style: solid; `bs-Solid`
+
+**Backgrounds**
+
+**Background Colors**: 
+- background-color: white; `bg-white`
+- background-color: black; `bg-black`
+- background-color: rgb(36, 36, 36); `bg-darkgrey`
+- background-color: grey; 
+- background-color: pink;
+- background-color: yellow;
+- background-color: orange;
+
+**Background Attachments**:
+- background-attachment: fixed; `bg-fixed`
+- background-attachment: scroll; `bg-scroll`
+- background-attachment: local; `bg-local`
+
+**Background Repeat**:
+- background-repeat: repeat; `bg-repeat`
+- background-repeat: no-repeat; `bg-norepeat`
+- background-repeat: repeat-x; `bg-repeatx`
+- background-repeat: repeat-y; `bg-repeaty`
+
+**Background Size**:
+- background-size: cover; `bg-cover`
+- background-size: contain; `bg-contain`
+
+**Height**:
+- Sizes 1 - 100 `h-1`,`h-2`,`h-100` etc.
+
+**Width**:
+- Sizes 1 - 100 `w-1`,`w-2`,`w-100` etc.
+
+**Margin**
+
+**Margin Around**
+- margin: auto; `m-auto`
+- margin: 1%; `m-1`
+- margin: 2%; `m-2`
+- margin: 4%; `m-4`
+- margin: 6%; `m-6`
+- margin: 8%; `m-8`
+- margin: 10%; `m-10`
+
+**Margin Top**
+- margin-top: 1%; `mt-1`
+- margin-top: 2%; `mt-2`
+- margin-top: 4%; `mt-4`
+- margin-top: 6%; `mt-6`
+- margin-top: 8%; `mt-8`
+- margin-top: 10%; `mt-10`
+
+**Margin Right**
+- margin-right: 1%; `mr-1`
+- margin-right: 2%; `mr-2`
+- margin-right: 4%; `mr-4`
+- margin-right: 6%; `mr-6`
+- margin-right: 8%; `mr-8`
+- margin-right: 10%; `mr-10`
+
+**Margin Bottom**
+- margin-bottom: 1%; `mb-1`
+- margin-bottom: 2%; `mb-2`
+- margin-bottom: 4%; `mb-4`
+- margin-bottom: 6%; `mb-6`
+- margin-bottom: 8%; `mb-8`
+- margin-bottom: 10%; `mb-10`
+
+**Margin Left**
+- margin-left: 1%; `ml-1`
+- margin-left: 2%; `ml-2`
+- margin-left: 4%; `ml-4`
+- margin-left: 6%; `ml-6`
+- margin-left: 8%; `ml-8`
+- margin-left: 10%; `ml-10`
