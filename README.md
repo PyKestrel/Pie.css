@@ -27,8 +27,12 @@ The Utility Portion Is The Only Portion Included In The Pie.min.css, The Rest Su
 - [ ] Tips
 - [ ] Pop Up Notifications
 
+## **Contact:**
+[PyRepo](https://www.pyrepo.com/)
+[Email](mailto:ariel@pyrepo.com)
+[Instagram](https://www.instagram.com/towersdeleon/)
 
-##**Documentation**:
+## **Documentation**:
 I Will Format This Section Property and Syntax Respectively.
 
 When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen In The Example Syntax Above Otherwise It Wont Work.
