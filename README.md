@@ -27,6 +27,9 @@ The Utility Portion Is The Only Portion Included In The Pie.min.css, The Rest Su
 - [ ] Tips
 - [ ] Pop Up Notifications
 
+## **Future Features**
+- Responsiveness Syntax For Mobile Devices!
+
 ## **Contact:**
 [PyRepo](https://www.pyrepo.com/)
 [Email](mailto:ariel@pyrepo.com)
