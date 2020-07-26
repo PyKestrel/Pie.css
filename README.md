@@ -18,8 +18,8 @@ The Utility Portion Is The Only Portion Included In The Pie.min.css, The Rest Su
 ```
 
 ## **Features In Next Update**
-- [ ] Top, Right, Bottom, Left
-- [ ] Positions
+- [x] Top, Right, Bottom, Left
+- [x] Positions
 - [x] More Font & BG Colors!
 - [x] More Fonts!
 - [ ] Transformations (Scale, Rotates, Skew)
