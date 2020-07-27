@@ -18,14 +18,10 @@ The Utility Portion Is The Only Portion Included In The Pie.min.css, The Rest Su
 ```
 
 ## **Features In Next Update**
-- [x] Top, Right, Bottom, Left
-- [x] Positions
 - [ ] More Font & BG Colors!
 - [ ] More Fonts!
-- [ ] Transformations (Scale, Rotates, Skew)
-- [ ] Progress Bar
+- [ ] More Margin & Padding Units
 - [ ] Tips
-- [ ] Pop Up Notifications
 
 ## **Future Features**
 - Responsiveness Syntax For Mobile Devices!
@@ -48,6 +44,9 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - Ma Shen Zheng `ma`
 - Times New Roman `times`
 - Arial `arial`
+- Poppins `poppins`
+- Mulish `mulish`
+- Nunito Sans `nunito`
 
 ## **Font Size**:
 - Size Options Are Similar To That Of Microsoft Word  `fs-8`, `fs-9`, `fs-10`, etc.
@@ -87,6 +86,26 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - color: pink; `pink`
 - color: yellow; `yellow`
 - color: orange; `orange`
+- color: purple; `purple`
+- color: aqua; `aqua`
+- color: chartreuse; `lime`
+- color: crimson; `crimson`
+- color: gold; `gold`
+- color: lightblue; `lightblue`
+- color: lightcoral; `lightcoral`
+- color: lightcyan; `lightcyan`
+- color: lightgoldenrodyellow; `lightgold`
+- color: lightgray; `lightgray`
+- color: lightgreen; `lightgreen`
+- color: lightgrey; `lightgrey`
+- color: lightpink; `lightpink`
+- color: lightsalmon; `lightsalmon`
+- color: lightseagreen; `lightseagreen`
+- color: lightskyblue; `lightskylue`
+- color: lightslategray; `lightslategray`
+- color: lightslategrey; `lightslategrey`
+- color: lightsteelblue; `lightsteelblue`
+- color: lightyellow; `lightyellow`
 
 ## **Border**:
 - border: 1px; `b-1`
@@ -152,10 +171,30 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - background-color: white; `bg-white`
 - background-color: black; `bg-black`
 - background-color: rgb(36, 36, 36); `bg-darkgrey`
-- background-color: grey; 
-- background-color: pink;
-- background-color: yellow;
-- background-color: orange;
+- background-color: grey; `bg-grey`
+- background-color: pink; `bg-pink`
+- background-color: yellow; `bg-yellow`
+- background-color: orange; `bg-orange`
+- background-color: purple; `bg-purple`
+- background-color: aqua; `bg-aqua`
+- background-color: chartreuse; `bg-lime`
+- background-color: crimson; `bg-crimson`
+- background-color: gold; `bg-gold`
+- background-color: lightblue; `bg-lightblue`
+- background-color: lightcoral; `bg-lightcoral`
+- background-color: lightcyan; `bg-lightcyan`
+- background-color: lightgoldenrodyellow; `bg-lightgold`
+- background-color: lightgray; `bg-lightgray`
+- background-color: lightgreen; `bg-lightgreen`
+- background-color: lightgrey; `bg-lightgrey`
+- background-color: lightpink; `bg-lightpink`
+- background-color: lightsalmon; `bg-lightsalmon`
+- background-color: lightseagreen; `bg-lightseagreen`
+- background-color: lightskyblue; `bg-lightskylue`
+- background-color: lightslategray; `bg-lightslategray`
+- background-color: lightslategrey; `bg-lightslategrey`
+- background-color: lightsteelblue; `bg-lightsteelblue`
+- background-color: lightyellow; `bg-lightyellow`
 
 ## **Background Attachments**:
 - background-attachment: fixed; `bg-fixed`
@@ -313,3 +352,24 @@ When Playing With Fonts And Text, Make Sure To Use The font Class First As Seen 
 - transition: step-end; `tr-stepEnd`
 - transition: step-start; `tr-stepStart`
 
+## **Transformations**
+- transformation: rotateZ(15,30,45,60,75,90,105,120,135,150,165,180,195,210,225,240,255,270,285,200,315,330,345,360); `rotate-*`
+- transformation: rotateX(15,30,45,60,75,90,105,120,135,150,165,180,195,210,225,240,255,270,285,200,315,330,345,360); `rotateX-*`
+- transformation: rotateY(15,30,45,60,75,90,105,120,135,150,165,180,195,210,225,240,255,270,285,200,315,330,345,360); `rotateY-*`
+- transformation: skew(15,30,45,60,75,90); `skew-*`
+- transformation: skewX(15,30,45,60,75,90); `skewX-*`
+- transformation: skewY(15,30,45,60,75,90); `skewY-*`
+
+## **Scale Transformations**
+- transformation: scale(1.5,1.5); `scale-onehalftimes`
+- transformation: scale(2,2); `scale-twotimes`
+- transformation: scale(3,3); `scale-threetimes`
+- transformation: scale(4,4); `scale-fourtimes`
+- transformation: scaleX(1.5,1.5); `scaleX-onehalftimes`
+- transformation: scaleX(2,2); `scaleX-twotimes`
+- transformation: scaleX(3,3); `scaleX-threetimes`
+- transformation: scaleX(4,4); `scaleX-fourtimes`
+- transformation: scaleY(1.5,1.5); `scaleY-onehalftimes`
+- transformation: scaleY(2,2); `scaleY-twotimes`
+- transformation: scaleY(3,3); `scaleY-threetimes`
+- transformation: scaleY(4,4); `scaleY-fourtimes`
